@@ -48,4 +48,7 @@ print(emoji.emojize(" :face_savoring_food:"))
 print(emoji.emojize(" :exploding_head:"))
 print(emoji.emojize(" :clown_face:"))
 
+# new changes
 
+print("hello saksham ")
+print("hello bitch ")
